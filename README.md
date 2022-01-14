@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ramiro Spinelli
-- 🤩 I’m interested in web applications projects with Javascript especially React and NodeJS
+- 🤩 I’m interested in web applications projects especially those with React and NodeJS
 - 🔍 I’m looking to collaborate and learn on Blockchain projects ⛓️
 - 📫 How to reach me:
 - https://www.linkedin.com/in/ramiro-spinelli/
